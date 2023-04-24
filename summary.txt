@@ -1,0 +1,610 @@
+
+ =============
+('package: afp =|= summary: Python package and utilities for reading AFP '
+ '(Advanced Function Presentation) files')
+
+ =============
+'package: aiohttp =|= summary: Async http client/server framework (asyncio)'
+
+ =============
+('package: argon2-cffi =|= summary: The secure Argon2 password hashing '
+ 'algorithm.')
+
+ =============
+('package: asn1crypto =|= summary: Fast ASN.1 parser and serializer with '
+ 'definitions for private keys, public keys, certificates, CRL, OCSP, CMS, '
+ 'PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP')
+
+ =============
+('package: async-timeout =|= summary: Timeout context manager for asyncio '
+ 'programs')
+
+ =============
+'package: attrs =|= summary: Classes Without Boilerplate'
+
+ =============
+('package: ayx-python-sdk =|= summary: The Python plugin SDK for Alteryx '
+ 'Designer.')
+
+ =============
+('package: backcall =|= summary: Specifications for callback functions passed '
+ 'in to an API')
+
+ =============
+'package: beautifulsoup4 =|= summary: Screen-scraping library'
+
+ =============
+'package: bleach =|= summary: An easy safelist-based HTML-sanitizing tool.'
+
+ =============
+('package: blis =|= summary: The Blis BLAS-like linear algebra library, as a '
+ 'self-contained C-extension.')
+
+ =============
+'package: bs4 =|= summary: Dummy package for Beautiful Soup'
+
+ =============
+('package: catalogue =|= summary: Super lightweight function registries for '
+ 'your library')
+
+ =============
+("package: certifi =|= summary: Python package for providing Mozilla's CA "
+ 'Bundle.')
+
+ =============
+('package: cffi =|= summary: Foreign Function Interface for Python calling C '
+ 'code.')
+
+ =============
+'package: chardet =|= summary: Universal encoding detector for Python 3'
+
+ =============
+('package: charset-normalizer =|= summary: The Real First Universal Charset '
+ 'Detector. Open, modern and actively maintained alternative to Chardet.')
+
+ =============
+'package: click =|= summary: Composable command line interface toolkit'
+
+ =============
+('package: click-plugins =|= summary: An extension module for click to enable '
+ 'registering CLI commands via setuptools entry-points.')
+
+ =============
+('package: cligj =|= summary: Click params for commmand line interfaces to '
+ 'GeoJSON')
+
+ =============
+'package: cloudfoundry-client =|= summary: A client library for CloudFoundry'
+
+ =============
+'package: colorama =|= summary: Cross-platform colored terminal text.'
+
+ =============
+('package: cryptography =|= summary: cryptography is a package which provides '
+ 'cryptographic recipes and primitives to Python developers.')
+
+ =============
+'package: cycler =|= summary: Composable style cycles'
+
+ =============
+'package: cymem =|= summary: Manage calls to calloc/free through Cython'
+
+ =============
+('package: Cython =|= summary: The Cython compiler for writing C extensions '
+ 'for the Python language.')
+
+ =============
+('package: dash =|= summary: A Python framework for building reactive '
+ 'web-apps. Developed by Plotly.')
+
+ =============
+'package: dash-core-components =|= summary: Core component suite for Dash'
+
+ =============
+'package: dash-html-components =|= summary: Vanilla HTML components for Dash'
+
+ =============
+'package: dash-renderer =|= summary: Front-end component renderer for Dash'
+
+ =============
+'package: dash-table =|= summary: Dash table'
+
+ =============
+('package: DateTime =|= summary: This package provides a DateTime data type, '
+ "as known from Zope. Unless you need to communicate with Zope APIs, you're "
+ "probably better off using Python's built-in datetime module.")
+
+ =============
+'package: decorator =|= summary: Decorators for Humans'
+
+ =============
+'package: defusedxml =|= summary: XML bomb protection for Python stdlib modules'
+
+ =============
+('package: descartes =|= summary: Use geometric objects as matplotlib paths '
+ 'and patches')
+
+ =============
+'package: dukpy =|= summary: Simple JavaScript interpreter for Python'
+
+ =============
+('package: entrypoints =|= summary: Discover and load entry points from '
+ 'installed packages.')
+
+ =============
+('package: et-xmlfile =|= summary: An implementation of lxml.xmlfile for the '
+ 'standard library')
+
+ =============
+'package: filelock =|= summary: A platform independent file lock.'
+
+ =============
+'package: Fiona =|= summary: Fiona reads and writes spatial data files'
+
+ =============
+('package: Flask =|= summary: A simple framework for building complex web '
+ 'applications.')
+
+ =============
+('package: Flask-Compress =|= summary: Compress responses in your Flask app '
+ 'with gzip, deflate or brotli.')
+
+ =============
+'package: fonttools =|= summary: Tools to manipulate font files'
+
+ =============
+'package: fpdf =|= summary: Simple PDF generation for Python'
+
+ =============
+'package: fpdf2 =|= summary: Simple & fast PDF generation for Python'
+
+ =============
+'package: GDAL =|= summary: GDAL: Geospatial Data Abstraction Library'
+
+ =============
+'package: gensim =|= summary: Python framework for fast Vector Space Modelling'
+
+ =============
+'package: geopandas =|= summary: Geographic pandas extensions'
+
+ =============
+'package: grpcio =|= summary: HTTP/2-based RPC framework'
+
+ =============
+('package: html5lib =|= summary: HTML parser based on the WHATWG HTML '
+ 'specification')
+
+ =============
+('package: idna =|= summary: Internationalized Domain Names in Applications '
+ '(IDNA)')
+
+ =============
+'package: ipykernel =|= summary: IPython Kernel for Jupyter'
+
+ =============
+'package: ipython =|= summary: IPython: Productive Interactive Computing'
+
+ =============
+'package: ipython-genutils =|= summary: Vestigial utilities from IPython'
+
+ =============
+'package: ipywidgets =|= summary: Jupyter interactive widgets'
+
+ =============
+('package: itsdangerous =|= summary: Safely pass data to untrusted '
+ 'environments and back.')
+
+ =============
+('package: jedi =|= summary: An autocompletion tool for Python that can be '
+ 'used for text editors.')
+
+ =============
+'package: Jinja2 =|= summary: A very fast and expressive template engine.'
+
+ =============
+'package: joblib =|= summary: Lightweight pipelining with Python functions'
+
+ =============
+('package: jsonschema =|= summary: An implementation of JSON Schema validation '
+ 'for Python')
+
+ =============
+('package: jupyter =|= summary: Jupyter metapackage. Install all the Jupyter '
+ 'components in one go.')
+
+ =============
+('package: jupyter-client =|= summary: Jupyter protocol implementation and '
+ 'client libraries')
+
+ =============
+'package: jupyter-console =|= summary: Jupyter terminal console'
+
+ =============
+('package: jupyter-core =|= summary: Jupyter core package. A base package on '
+ 'which Jupyter projects rely.')
+
+ =============
+('package: kaleido =|= summary: Static image export for web-based '
+ 'visualization libraries with zero dependencies')
+
+ =============
+('package: kiwisolver =|= summary: A fast implementation of the Cassowary '
+ 'constraint solver')
+
+ =============
+('package: ldap3 =|= summary: A strictly RFC 4510 conforming LDAP V3 pure '
+ 'Python client library')
+
+ =============
+('package: lxml =|= summary: Powerful and Pythonic XML processing library '
+ 'combining libxml2/libxslt with the ElementTree API.')
+
+ =============
+('package: MarkupSafe =|= summary: Safely add untrusted strings to HTML/XML '
+ 'markup.')
+
+ =============
+'package: matplotlib =|= summary: Python plotting package'
+
+ =============
+('package: mistune =|= summary: A sane Markdown parser with useful plugins and '
+ 'renderers')
+
+ =============
+'package: multidict =|= summary: multidict implementation'
+
+ =============
+('package: munch =|= summary: A dot-accessible dictionary (a la JavaScript '
+ 'objects)')
+
+ =============
+'package: murmurhash =|= summary: Cython bindings for MurmurHash'
+
+ =============
+'package: nbconvert =|= summary: Converting Jupyter Notebooks'
+
+ =============
+'package: nbformat =|= summary: The Jupyter Notebook format'
+
+ =============
+'package: nltk =|= summary: Natural Language Toolkit'
+
+ =============
+('package: notebook =|= summary: A web-based notebook environment for '
+ 'interactive computing')
+
+ =============
+'package: numpy =|= summary: Fundamental package for array computing in Python'
+
+ =============
+'package: oauth2-client =|= summary: A client library for OAuth2'
+
+ =============
+('package: openpyxl =|= summary: A Python library to read/write Excel 2010 '
+ 'xlsx/xlsm files')
+
+ =============
+('package: oscrypto =|= summary: TLS (SSL) sockets, key generation, '
+ 'encryption, decryption, signing, verification and KDFs using the OS crypto '
+ 'libraries. Does not require a compiler, and relies on the OS for patching. '
+ 'Works on Windows, OS X and Linux/BSD.')
+
+ =============
+'package: packaging =|= summary: Core utilities for Python packages'
+
+ =============
+('package: pandas =|= summary: Powerful data structures for data analysis, '
+ 'time series, and statistics')
+
+ =============
+('package: pandocfilters =|= summary: Utilities for writing pandoc filters in '
+ 'python')
+
+ =============
+'package: parso =|= summary: A Python Parser'
+
+ =============
+('package: pathy =|= summary: pathlib.Path subclasses for local and cloud '
+ 'bucket storage')
+
+ =============
+('package: patsy =|= summary: A Python package for describing statistical '
+ 'models and for building design matrices.')
+
+ =============
+("package: pickleshare =|= summary: Tiny 'shelve'-like database with "
+ 'concurrency support')
+
+ =============
+'package: Pillow =|= summary: Python Imaging Library (Fork)'
+
+ =============
+('package: plotly =|= summary: An open-source, interactive data visualization '
+ 'library for Python')
+
+ =============
+('package: plotly-express =|= summary: Plotly Express - a high level wrapper '
+ 'for Plotly.py')
+
+ =============
+('package: preshed =|= summary: Cython hash table that trusts the keys are '
+ 'pre-hashed')
+
+ =============
+('package: prometheus-client =|= summary: Python client for the Prometheus '
+ 'monitoring system.')
+
+ =============
+('package: prompt-toolkit =|= summary: Library for building powerful '
+ 'interactive command lines in Python')
+
+ =============
+'package: protobuf =|= summary: '
+
+ =============
+('package: psutil =|= summary: Cross-platform lib for process and system '
+ 'monitoring in Python.')
+
+ =============
+('package: pyaim =|= summary: CyberArk Application Access Manager Client '
+ 'Library for Python 3')
+
+ =============
+('package: pyasn1 =|= summary: Pure-Python implementation of ASN.1 types and '
+ 'DER/BER/CER codecs (X.208)')
+
+ =============
+'package: pycparser =|= summary: C parser in Python'
+
+ =============
+'package: pycryptodomex =|= summary: Cryptographic library for Python'
+
+ =============
+('package: pydantic =|= summary: Data validation and settings management using '
+ 'python type hints')
+
+ =============
+('package: Pygments =|= summary: Pygments is a syntax highlighting package '
+ 'written in Python.')
+
+ =============
+'package: PyJWT =|= summary: JSON Web Token implementation in Python'
+
+ =============
+'package: pyodbc =|= summary: DB API Module for ODBC'
+
+ =============
+('package: pyOpenSSL =|= summary: Python wrapper module around the OpenSSL '
+ 'library')
+
+ =============
+'package: PyPAC =|= summary: Proxy auto-config and auto-discovery for Python.'
+
+ =============
+('package: pyparsing =|= summary: pyparsing module - Classes and methods to '
+ 'define and execute parsing grammars')
+
+ =============
+('package: PyPDF2 =|= summary: A pure-python PDF library capable of splitting, '
+ 'merging, cropping, and transforming PDF files')
+
+ =============
+'package: pypiwin32 =|= summary: '
+
+ =============
+('package: pyproj =|= summary: Python interface to PROJ (cartographic '
+ 'projections and coordinate transformations library)')
+
+ =============
+('package: pyrsistent =|= summary: Persistent/Functional/Immutable data '
+ 'structures')
+
+ =============
+('package: pyspnego =|= summary: Windows Negotiate Authentication Client and '
+ 'Server')
+
+ =============
+('package: python-dateutil =|= summary: Extensions to the standard Python '
+ 'datetime module')
+
+ =============
+('package: python-docx =|= summary: Create and update Microsoft Word .docx '
+ 'files.')
+
+ =============
+('package: python-pptx =|= summary: Generate and manipulate Open XML '
+ 'PowerPoint (.pptx) files')
+
+ =============
+'package: pytz =|= summary: World timezone definitions, modern and historical'
+
+ =============
+'package: pywin32 =|= summary: Python for Window Extensions'
+
+ =============
+('package: pywinpty =|= summary: Pseudo terminal support for Windows from '
+ 'Python.')
+
+ =============
+'package: pyxlsb =|= summary: Excel 2007-2010 Binary Workbook (xlsb) parser'
+
+ =============
+'package: PyYAML =|= summary: YAML parser and emitter for Python'
+
+ =============
+'package: pyzmq =|= summary: Python bindings for 0MQ'
+
+ =============
+'package: qtconsole =|= summary: Jupyter Qt console'
+
+ =============
+('package: regex =|= summary: Alternative regular expression module, to '
+ 'replace re.')
+
+ =============
+'package: requests =|= summary: Python HTTP for Humans.'
+
+ =============
+('package: requests-kerberos =|= summary: A Kerberos authentication handler '
+ 'for python-requests')
+
+ =============
+('package: requests-negotiate-sspi =|= summary: This package allows for '
+ 'Single-Sign On HTTP Negotiate authentication using the requests library on '
+ 'Windows.')
+
+ =============
+('package: scikit-learn =|= summary: A set of python modules for machine '
+ 'learning and data mining')
+
+ =============
+('package: scipy =|= summary: Fundamental algorithms for scientific computing '
+ 'in Python')
+
+ =============
+('package: Send2Trash =|= summary: Send file to trash natively under Mac OS X, '
+ 'Windows and Linux.')
+
+ =============
+'package: Shapely =|= summary: Manipulation and analysis of geometric objects'
+
+ =============
+('package: shiv =|= summary: A command line utility for building fully self '
+ 'contained Python zipapps.')
+
+ =============
+'package: six =|= summary: Python 2 and 3 compatibility utilities'
+
+ =============
+('package: smart-open =|= summary: Utils for streaming large files (S3, HDFS, '
+ 'GCS, Azure Blob Storage, gzip, bz2...)')
+
+ =============
+('package: snowflake-connector-python =|= summary: Snowflake Connector for '
+ 'Python')
+
+ =============
+('package: soupsieve =|= summary: A modern CSS selector implementation for '
+ 'Beautiful Soup.')
+
+ =============
+('package: spacy =|= summary: Industrial-strength Natural Language Processing '
+ '(NLP) in Python')
+
+ =============
+('package: spacy-legacy =|= summary: Legacy registered functions for spaCy '
+ 'backwards compatibility')
+
+ =============
+'package: SQLAlchemy =|= summary: Database Abstraction Library'
+
+ =============
+('package: srsly =|= summary: Modern high-performance serialization utilities '
+ 'for Python')
+
+ =============
+('package: statsmodels =|= summary: Statistical computations and models for '
+ 'Python')
+
+ =============
+('package: stopwordsiso =|= summary: Collection of stopwords for multiple '
+ 'languages. Using ISO 639-1 language code.')
+
+ =============
+'package: svg.path =|= summary: SVG path objects and parser'
+
+ =============
+'package: tenacity =|= summary: Retry code until it succeeds'
+
+ =============
+('package: terminado =|= summary: Tornado websocket backend for the Xterm.js '
+ 'Javascript terminal emulator library.')
+
+ =============
+('package: testpath =|= summary: Test utilities for code working with files '
+ 'and commands')
+
+ =============
+('package: thinc =|= summary: A refreshing functional take on deep learning, '
+ 'compatible with your favorite libraries')
+
+ =============
+'package: threadpoolctl =|= summary: threadpoolctl'
+
+ =============
+('package: tld =|= summary: Extract the top-level domain (TLD) from the URL '
+ 'given.')
+
+ =============
+'package: toolz =|= summary: List processing tools and functional utilities'
+
+ =============
+('package: tornado =|= summary: Tornado is a Python web framework and '
+ 'asynchronous networking library, originally developed at FriendFeed.')
+
+ =============
+'package: tqdm =|= summary: Fast, Extensible Progress Meter'
+
+ =============
+'package: traitlets =|= summary: Traitlets Python configuration system'
+
+ =============
+('package: typer =|= summary: Typer, build great CLIs. Easy to code. Based on '
+ 'Python type hints.')
+
+ =============
+('package: typing-extensions =|= summary: Backported and Experimental Type '
+ 'Hints for Python 3.7+')
+
+ =============
+('package: urllib3 =|= summary: HTTP library with thread-safe connection '
+ 'pooling, file post, and more.')
+
+ =============
+'package: waitress =|= summary: Waitress WSGI server'
+
+ =============
+('package: wasabi =|= summary: A lightweight console printing and formatting '
+ 'toolkit')
+
+ =============
+('package: wcwidth =|= summary: Measures the displayed width of unicode '
+ 'strings in a terminal')
+
+ =============
+('package: webencodings =|= summary: Character encoding aliases for legacy web '
+ 'content')
+
+ =============
+('package: websocket-client =|= summary: WebSocket client for Python with low '
+ 'level API options')
+
+ =============
+'package: Werkzeug =|= summary: The comprehensive WSGI web application library.'
+
+ =============
+('package: widgetsnbextension =|= summary: Jupyter interactive widgets for '
+ 'Jupyter Notebook')
+
+ =============
+('package: wincertstore =|= summary: Python module to extract CA and CRL certs '
+ "from Windows' cert store (ctypes based).")
+
+ =============
+('package: xlrd =|= summary: Library for developers to extract data from '
+ 'Microsoft Excel (tm) .xls spreadsheet files')
+
+ =============
+('package: XlsxWriter =|= summary: A Python module for creating Excel XLSX '
+ 'files.')
+
+ =============
+('package: xmltodict =|= summary: Makes working with XML feel like you are '
+ 'working with JSON')
+
+ =============
+'package: yarl =|= summary: Yet another URL library'
+
+ =============
+'package: zope.interface =|= summary: Interfaces for Python'
+['ayx', 'ayx-insights', 'ayx-insights-components', 'en-core-web-md']
